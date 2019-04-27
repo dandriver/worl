@@ -1,2 +1,2 @@
-# worl
+# world
 Evolution simulation
